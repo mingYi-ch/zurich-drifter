@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "709676442dabb51b3e69079fd44b453e",
+    "revision": "cc117f22fd51aae80d4424164cc0ebf9",
     "url": "/zurich-drifter/index.html"
   },
   {
-    "revision": "8e125865212368d8e8b8",
+    "revision": "95f37b4f4d19616bda88",
     "url": "/zurich-drifter/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "0d4d9c74d6d3d451eab7",
-    "url": "/zurich-drifter/static/js/2.09344ecb.chunk.js"
+    "revision": "4615763f7941df5c7103",
+    "url": "/zurich-drifter/static/js/2.d41ccd70.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/zurich-drifter/static/js/2.09344ecb.chunk.js.LICENSE.txt"
+    "url": "/zurich-drifter/static/js/2.d41ccd70.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e125865212368d8e8b8",
-    "url": "/zurich-drifter/static/js/main.88dd4ff8.chunk.js"
+    "revision": "95f37b4f4d19616bda88",
+    "url": "/zurich-drifter/static/js/main.f07f098f.chunk.js"
   },
   {
     "revision": "04af840ca5a8edd3b77a",

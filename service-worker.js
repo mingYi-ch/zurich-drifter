@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zurich-drifter/precache-manifest.aa21b22b66ea30f7c7988a4b08dd23f2.js"
+  "/zurich-drifter/precache-manifest.6734e2475bafdb19b9b08daa242b8cdb.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/zurich-drifter/static/css/main.5f361e03.chunk.css",
-    "main.js": "/zurich-drifter/static/js/main.88dd4ff8.chunk.js",
-    "main.js.map": "/zurich-drifter/static/js/main.88dd4ff8.chunk.js.map",
+    "main.js": "/zurich-drifter/static/js/main.f07f098f.chunk.js",
+    "main.js.map": "/zurich-drifter/static/js/main.f07f098f.chunk.js.map",
     "runtime-main.js": "/zurich-drifter/static/js/runtime-main.32b6ad3b.js",
     "runtime-main.js.map": "/zurich-drifter/static/js/runtime-main.32b6ad3b.js.map",
-    "static/js/2.09344ecb.chunk.js": "/zurich-drifter/static/js/2.09344ecb.chunk.js",
-    "static/js/2.09344ecb.chunk.js.map": "/zurich-drifter/static/js/2.09344ecb.chunk.js.map",
+    "static/js/2.d41ccd70.chunk.js": "/zurich-drifter/static/js/2.d41ccd70.chunk.js",
+    "static/js/2.d41ccd70.chunk.js.map": "/zurich-drifter/static/js/2.d41ccd70.chunk.js.map",
     "index.html": "/zurich-drifter/index.html",
-    "precache-manifest.aa21b22b66ea30f7c7988a4b08dd23f2.js": "/zurich-drifter/precache-manifest.aa21b22b66ea30f7c7988a4b08dd23f2.js",
+    "precache-manifest.6734e2475bafdb19b9b08daa242b8cdb.js": "/zurich-drifter/precache-manifest.6734e2475bafdb19b9b08daa242b8cdb.js",
     "service-worker.js": "/zurich-drifter/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/zurich-drifter/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.09344ecb.chunk.js.LICENSE.txt": "/zurich-drifter/static/js/2.09344ecb.chunk.js.LICENSE.txt",
+    "static/js/2.d41ccd70.chunk.js.LICENSE.txt": "/zurich-drifter/static/js/2.d41ccd70.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/zurich-drifter/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.32b6ad3b.js",
-    "static/js/2.09344ecb.chunk.js",
+    "static/js/2.d41ccd70.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.88dd4ff8.chunk.js"
+    "static/js/main.f07f098f.chunk.js"
   ]
 }
